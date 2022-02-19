@@ -1,6 +1,7 @@
 {
   "name": "real-estate-app-nextjs",
   "version": "0.1.0",
+  "homepage": "https://anastasia1756.github.io/real-estate-app-nextjs",
   "private": true,
   "scripts": {
     "dev": "next dev",
